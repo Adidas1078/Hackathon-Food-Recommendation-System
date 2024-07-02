@@ -10,9 +10,9 @@
 ## Team info
 ### Team Name : ideal bits
 Team members : 
+* Aditya Das
 * Niranjan Pal
 * Pratham Gautam
-* Aditya Das
 * Divyajeet Parmar
 
 Team No : PU111
@@ -59,7 +59,7 @@ The project is created with:
 ### Run it locally
 #### Clone the repo
 ```
-$ git clone https://github.com/aadeshpalpal/Hackathon_PU15-03-24.git
+$ git clone https://github.com/Adidas1078/Hackathon-Food-Recommendation-System
 ```
 ### docker-compose
 In the project root run:
